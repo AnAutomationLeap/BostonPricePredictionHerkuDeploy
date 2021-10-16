@@ -16,5 +16,7 @@ boston = load_boston()
 bos = pd.DataFrame(boston.data)
 
 # Task: Deploy this assignment in any cloud platform.(Try to look for free cloud platform)
-
+# Deployd Link: https://bostonpricelinear.herokuapp.com/
 # Assignment: Submit assignment’s deployable link only.
+
+
